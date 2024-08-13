@@ -957,18 +957,8 @@ hash = "07d544cd7b28ddb8c11461cb0046c14d83e1bec169d1790f11573ee92b40386a"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
-metafile = true
-
-[[files]]
 file = "mods/infinite-dragon-eggs.pw.toml"
 hash = "b97fdc5a03a5ff5d64f5fc63945d3bdce154e09025e70d9ac9b00492219978fd"
-metafile = true
-
-[[files]]
-file = "mods/iris.pw.toml"
-hash = "aac37788ac1acd537a8b5b32fc2489cddf8034f196f7f38c0755837764b4f01d"
 metafile = true
 
 [[files]]
@@ -1117,6 +1107,11 @@ hash = "68c771e610e9c86e53bb2e5e8da15c6081174d65284a01b836c42feecfd58142"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "38ecb4b7f862e7c6aef0b8b065bb38c9f2674c41b37f093d713163bb87145f31"
 metafile = true
@@ -1237,11 +1232,6 @@ hash = "776a8c141073e136f9b13daef58089b6e3b19bc86940b52d65bc57a637bacdd5"
 metafile = true
 
 [[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
 file = "mods/rei.pw.toml"
 hash = "97e16b6d5ad077873d5afec2cbd8ea2124fac325517c06a1ee3c94ffef940c9a"
 metafile = true
@@ -1289,16 +1279,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-scrolling-refurbished.pw.toml"
 hash = "63fb4d0bf1628d43ce5347ea274fba55837e709e3520a2bdfb083fd3b108a667"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "245530bdbb5c4127a1286f3722778d71e478194a8dcee89388c8fd247b4a57da"
 metafile = true
 
 [[files]]
