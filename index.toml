@@ -1367,7 +1367,7 @@ hash = "63fb4d0bf1628d43ce5347ea274fba55837e709e3520a2bdfb083fd3b108a667"
 metafile = true
 
 [[files]]
-file = "mods/sodium-con-edit.pw.toml"
+file = "mods/sodium.pw.toml"
 hash = "df803e30910eecbcadba91e452b551eb2306f30be8e91d0dd2e6b0eee768bc76"
 metafile = true
 
