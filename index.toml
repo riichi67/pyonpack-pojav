@@ -1372,8 +1372,13 @@ hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
+file = "mods/sodium-fabric-0.5.8+mc1.20.1-con-edit.jar"
+hash = "8e69fd5090a418985912230650f6dec3077f4ef073ce152e5bbb954cba76b6dd"
+
+[[files]]
+file = "mods/sodium.pw.toml"
 hash = "02be90d9037da52564a5b87771f8444a9f475d51764b306243f43d1955ab56d9"
+metafile = true
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
@@ -1563,7 +1568,3 @@ metafile = true
 [[files]]
 file = "server-icon.png"
 hash = "550de05db0dbec117dedeed8e4d29dabe80230a1ab37a439d5f991355682df30"
-
-[[files]]
-file = "storage/sodium-fabric-0.5.8+mc1.20.1-con-edit.jar"
-hash = "8e69fd5090a418985912230650f6dec3077f4ef073ce152e5bbb954cba76b6dd"
