@@ -1367,14 +1367,13 @@ hash = "63fb4d0bf1628d43ce5347ea274fba55837e709e3520a2bdfb083fd3b108a667"
 metafile = true
 
 [[files]]
-file = "mods/sodium.pw.toml"
-hash = "df803e30910eecbcadba91e452b551eb2306f30be8e91d0dd2e6b0eee768bc76"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "02be90d9037da52564a5b87771f8444a9f475d51764b306243f43d1955ab56d9"
 
 [[files]]
 file = "mods/soul-fire-d.pw.toml"
